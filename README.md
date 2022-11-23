@@ -1,8 +1,10 @@
 #  gocker
 
+https://user-images.githubusercontent.com/32017929/203649720-661d410a-1ead-49cb-804a-f3db4746fa3d.mp4
+
 ## About
 
-Containers are a fundamental part of my daily workflow, but I have little understanding of what's going on "under the hood". This project is my attempt to demystify containerization by building a (very) simple toy container in Go.
+Containers are a fundamental part of my daily workflow, but I have little understanding of what's going on under the hood. This project is my attempt to demystify containerization by building a simple toy container in Go.
 
 ## Installation
 
