@@ -1,6 +1,6 @@
 #  gocker
 
-![inn](https://user-images.githubusercontent.com/32017929/210287316-b365237d-85ec-4c1c-9c43-565b5a92d003.gif)
+![inn](https://user-images.githubusercontent.com/32017929/210287355-01280bc1-0dd5-45bc-9210-1a4609213360.gif)
 
 ## About
 
